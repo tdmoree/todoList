@@ -17,7 +17,7 @@
 
 # Links
 - [Solution URL]( https://github.com/tdmoree/todoList.git)
-- [Live Site URL]( todo-list-tdmoree.vercel.app)
+- [Live Site URL]( https://todo-list-tdmoree.vercel.app/)
 
  # My process
  **Built with:**
